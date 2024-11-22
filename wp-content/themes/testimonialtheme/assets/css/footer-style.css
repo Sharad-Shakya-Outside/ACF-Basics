@@ -1,0 +1,9 @@
+.footer {
+    padding: 1rem;
+    text-align: center;
+    background: linear-gradient(pink, white, yellow);
+}
+
+.footer p {
+    margin: 0;
+}
